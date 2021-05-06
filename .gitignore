@@ -4,7 +4,9 @@ __pycache__/
 *$py.class
 
 .ipynb_checkpoints/
-
+old/
+data/
+fig/old/
 # C extensions
 *.so
 
